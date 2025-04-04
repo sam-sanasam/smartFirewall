@@ -4,6 +4,7 @@
 ![image](https://github.com/user-attachments/assets/58157738-90a7-4cc9-9624-f1a85db13c1d)
 
 Folder structure:
+
 ![image](https://github.com/user-attachments/assets/069d2bf3-24dc-4c06-92b7-89d5b8946abc)
 
 - First run the 'prediction.py'. this will generate a file called 'data.json'
